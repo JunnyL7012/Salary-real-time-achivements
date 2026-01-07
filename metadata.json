@@ -1,0 +1,5 @@
+{
+  "name": "Salary Receipt Tracker",
+  "description": "A thermal receipt-style app that tracks your earnings per second in real-time. Manage your wishlist, track work hours, and visualize your financial progress toward goals with a unique POS receipt aesthetic.",
+  "requestFramePermissions": []
+}
